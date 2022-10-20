@@ -16,7 +16,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:  https://ale-85.github.io/Huddle-landing-page-with-single-introductory-section/
 
 ## My process
 
